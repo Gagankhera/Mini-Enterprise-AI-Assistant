@@ -1,0 +1,4 @@
+[ERROR] Database timeout detected
+[WARNING] Multiple failed login attempts
+[ERROR] Unauthorized access attempt
+[INFO] System restart completed

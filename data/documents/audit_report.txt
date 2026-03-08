@@ -1,0 +1,13 @@
+Internal Security Audit Report
+
+The latest security audit identified several findings related to system access and logging.
+
+Audit Findings:
+1. Some systems allow shared user accounts.
+2. Audit logs are not consistently retained for more than 30 days.
+3. Access control reviews are not performed quarterly.
+
+Recommendations:
+- Implement role-based access control (RBAC).
+- Enforce individual user accounts.
+- Extend log retention to 90 days.

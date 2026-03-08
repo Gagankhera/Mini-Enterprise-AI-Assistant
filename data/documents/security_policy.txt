@@ -1,0 +1,17 @@
+Enterprise Security Policy
+
+The organization enforces strict access control policies to protect sensitive data.
+
+Key Security Risks:
+- Weak password policies
+- Lack of multi-factor authentication
+- Unauthorized access to internal systems
+- Unencrypted data transmission
+
+Security Measures:
+- Enforce strong passwords
+- Enable multi-factor authentication (MFA)
+- Monitor login attempts
+- Encrypt sensitive data
+
+Failure to follow these policies may lead to security breaches and compliance violations.
